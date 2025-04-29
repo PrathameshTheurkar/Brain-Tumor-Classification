@@ -59,3 +59,4 @@ The project includes:
 - **Visualization**: Matplotlib, Seaborn
 - **Model Evaluation**: Scikit-learn (metrics, confusion matrix)
 - **Image Processing**: OpenCV
+- **Storage Bucket**: Google Drive 
