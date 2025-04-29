@@ -59,3 +59,11 @@ The project includes:
 - **Visualization**: Matplotlib, Seaborn
 - **Model Evaluation**: Scikit-learn (metrics, confusion matrix)
 - **Image Processing**: OpenCV
+
+
+## DEMO VIDEO:
+
+
+
+https://github.com/user-attachments/assets/9429f60a-b287-4341-acf5-f2a92971e392
+
